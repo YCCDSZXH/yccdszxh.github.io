@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on YCCD Blog</title>
+        <link>https://yccd.cc/tags/</link>
+        <description>Recent content in Tags on YCCD Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Fri, 13 Jan 2023 18:21:21 +0800</lastBuildDate><atom:link href="https://yccd.cc/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Blog</title>
+        <link>https://yccd.cc/tags/blog/</link>
+        <pubDate>Fri, 13 Jan 2023 18:21:21 +0800</pubDate>
+        
+        <guid>https://yccd.cc/tags/blog/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>CDN</title>
+        <link>https://yccd.cc/tags/cdn/</link>
+        <pubDate>Fri, 13 Jan 2023 18:21:21 +0800</pubDate>
+        
+        <guid>https://yccd.cc/tags/cdn/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Cloudfare Page</title>
+        <link>https://yccd.cc/tags/cloudfare-page/</link>
+        <pubDate>Fri, 13 Jan 2023 18:21:21 +0800</pubDate>
+        
+        <guid>https://yccd.cc/tags/cloudfare-page/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Github Page</title>
+        <link>https://yccd.cc/tags/github-page/</link>
+        <pubDate>Fri, 13 Jan 2023 18:21:21 +0800</pubDate>
+        
+        <guid>https://yccd.cc/tags/github-page/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Netlify</title>
+        <link>https://yccd.cc/tags/netlify/</link>
+        <pubDate>Fri, 13 Jan 2023 18:21:21 +0800</pubDate>
+        
+        <guid>https://yccd.cc/tags/netlify/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Vercel</title>
+        <link>https://yccd.cc/tags/vercel/</link>
+        <pubDate>Fri, 13 Jan 2023 18:21:21 +0800</pubDate>
+        
+        <guid>https://yccd.cc/tags/vercel/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Linux</title>
+        <link>https://yccd.cc/tags/linux/</link>
+        <pubDate>Thu, 12 Jan 2023 22:59:59 +0800</pubDate>
+        
+        <guid>https://yccd.cc/tags/linux/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

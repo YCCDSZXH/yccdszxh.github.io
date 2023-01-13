@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Blog on YCCD Blog</title>
+        <link>https://yccd.cc/tags/blog/</link>
+        <description>Recent content in Blog on YCCD Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Fri, 13 Jan 2023 18:21:21 +0800</lastBuildDate><atom:link href="https://yccd.cc/tags/blog/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Blog Alias</title>
+        <link>https://yccd.cc/p/blog-alias.html/</link>
+        <pubDate>Fri, 13 Jan 2023 18:21:21 +0800</pubDate>
+        
+        <guid>https://yccd.cc/p/blog-alias.html/</guid>
+        <description>&lt;img src="https://img.yccd.cc/img/c054dc4560e75daf66938b4704f916bdeec9ce3e.png" alt="Featured image of post Blog Alias" /&gt;&lt;h1 id=&#34;博客正式搭建完成&#34;&gt;博客正式搭建完成&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;采用的是hugo + Stack主题
+将hugo生成的静态网页部署到多个网站&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://yccdszxh.github.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Github Page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://vercel.blog.yccd.cc/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Vercel&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://netlify.blog.yccd.cc/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Netlify&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://yccd.cc/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Cloudflare Page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://4everland.blog.yccd.cc/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;4everland&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;以上网站均可通过github仓库同步
+只需要将md写好后push到github仓库&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
