@@ -8,7 +8,7 @@
     <loc>https://yccd.cc/tags/blog/</loc>
     <lastmod>2023-01-13T18:21:21+08:00</lastmod>
   </url><url>
-    <loc>https://yccd.cc/p/blog-alias.html/</loc>
+    <loc>https://yccd.cc/p/blog-alias/</loc>
     <lastmod>2023-01-13T18:21:21+08:00</lastmod>
   </url><url>
     <loc>https://yccd.cc/categories/</loc>
@@ -41,19 +41,25 @@
     <loc>https://yccd.cc/tags/linux/</loc>
     <lastmod>2023-01-12T22:59:59+08:00</lastmod>
   </url><url>
-    <loc>https://yccd.cc/p/linux-change-hostname.html/</loc>
+    <loc>https://yccd.cc/p/linux-change-hostname/</loc>
     <lastmod>2023-01-12T22:59:59+08:00</lastmod>
   </url><url>
-    <loc>https://yccd.cc/archives.html/</loc>
+    <loc>https://yccd.cc/archives/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://yccd.cc/page/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://yccd.cc/about/</loc>
+  </url><url>
     <loc>https://yccd.cc/categories/example-category/</loc>
   </url><url>
-    <loc>https://yccd.cc/links.html/</loc>
+    <loc>https://yccd.cc/p/link/</loc>
   </url><url>
-    <loc>https://yccd.cc/search.html/</loc>
+    <loc>https://yccd.cc/links/</loc>
+  </url><url>
+    <loc>https://yccd.cc/search/</loc>
+  </url><url>
+    <loc>https://yccd.cc/site/</loc>
   </url>
 </urlset>

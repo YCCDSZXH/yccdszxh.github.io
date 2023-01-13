@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Categories on YCCD Blog</title>
+        <title>Categories on YCCD の BLOG</title>
         <link>https://yccd.cc/categories/</link>
-        <description>Recent content in Categories on YCCD Blog</description>
+        <description>Recent content in Categories on YCCD の BLOG</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <lastBuildDate>Fri, 13 Jan 2023 18:21:21 +0800</lastBuildDate><atom:link href="https://yccd.cc/categories/index.xml" rel="self" type="application/rss+xml" /><item>
