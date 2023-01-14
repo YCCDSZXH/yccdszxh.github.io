@@ -12,7 +12,24 @@
 <meta property='og:site_name' content='YCCD の BLOG'>
 <meta property='og:type' content='article'><meta property='article:section' content='Page' />
 <meta name="twitter:title" content="Site">
-<meta name="twitter:description" content="其他网站">
+<meta name="twitter:description" content="其他网站"><style>
+    :root {
+        --article-font-family: "Merriweather", var(--base-font-family);
+    }
+</style>
+
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://img.yccd.cc/css/css2.css";
+    
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+    
+        document.head.appendChild(customFont);
+    }());
+</script>
+
     </head>
     <body class="
     article-page
