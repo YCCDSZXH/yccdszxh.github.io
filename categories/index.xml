@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on YCCD の BLOG</title>
-        <link>https://yccd.cc/categories/</link>
+        <link>https://blog.yccd.cc/categories/</link>
         <description>Recent content in Categories on YCCD の BLOG</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Fri, 13 Jan 2023 18:21:21 +0800</lastBuildDate><atom:link href="https://yccd.cc/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 13 Jan 2023 18:21:21 +0800</lastBuildDate><atom:link href="https://blog.yccd.cc/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>技术</title>
-        <link>https://yccd.cc/categories/%E6%8A%80%E6%9C%AF/</link>
+        <link>https://blog.yccd.cc/categories/%E6%8A%80%E6%9C%AF/</link>
         <pubDate>Fri, 13 Jan 2023 18:21:21 +0800</pubDate>
         
-        <guid>https://yccd.cc/categories/%E6%8A%80%E6%9C%AF/</guid>
+        <guid>https://blog.yccd.cc/categories/%E6%8A%80%E6%9C%AF/</guid>
         <description></description>
         </item>
         <item>
         <title>Example Category</title>
-        <link>https://yccd.cc/categories/example-category/</link>
+        <link>https://blog.yccd.cc/categories/example-category/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://yccd.cc/categories/example-category/</guid>
+        <guid>https://blog.yccd.cc/categories/example-category/</guid>
         <description></description>
         </item>
         

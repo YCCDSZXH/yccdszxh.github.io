@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Cloudfare Page on YCCD の BLOG</title>
-        <link>https://yccd.cc/tags/cloudfare-page/</link>
+        <link>https://blog.yccd.cc/tags/cloudfare-page/</link>
         <description>Recent content in Cloudfare Page on YCCD の BLOG</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Fri, 13 Jan 2023 18:21:21 +0800</lastBuildDate><atom:link href="https://yccd.cc/tags/cloudfare-page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 13 Jan 2023 18:21:21 +0800</lastBuildDate><atom:link href="https://blog.yccd.cc/tags/cloudfare-page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Blog Alias</title>
-        <link>https://yccd.cc/p/blog-alias/</link>
+        <link>https://blog.yccd.cc/p/blog-alias/</link>
         <pubDate>Fri, 13 Jan 2023 18:21:21 +0800</pubDate>
         
-        <guid>https://yccd.cc/p/blog-alias/</guid>
+        <guid>https://blog.yccd.cc/p/blog-alias/</guid>
         <description>&lt;img src="https://img.yccd.cc/img/c054dc4560e75daf66938b4704f916bdeec9ce3e.png" alt="Featured image of post Blog Alias" /&gt;&lt;h1 id=&#34;博客正式搭建完成&#34;&gt;博客正式搭建完成&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;采用的是 hugo + Stack 主题
