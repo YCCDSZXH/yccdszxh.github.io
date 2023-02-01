@@ -3,15 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.yccd.cc/</loc>
-    <lastmod>2023-01-13T18:21:21+08:00</lastmod>
+    <lastmod>2023-02-01T13:14:01+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.yccd.cc/categories/</loc>
+    <lastmod>2023-02-01T13:14:01+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.yccd.cc/post/</loc>
+    <lastmod>2023-02-01T13:14:01+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.yccd.cc/tags/</loc>
+    <lastmod>2023-02-01T13:14:01+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.yccd.cc/tags/%E7%89%A9%E7%90%86/</loc>
+    <lastmod>2023-02-01T13:14:01+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.yccd.cc/p/%E7%89%A9%E7%90%86%E5%A4%8D%E4%B9%A0/</loc>
+    <lastmod>2023-02-01T13:14:01+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.yccd.cc/categories/%E5%AD%A6%E4%B9%A0-%E5%A4%A7%E5%AD%A6%E8%AF%BE%E7%A8%8B/</loc>
+    <lastmod>2023-02-01T13:14:01+08:00</lastmod>
   </url><url>
     <loc>https://blog.yccd.cc/tags/blog/</loc>
     <lastmod>2023-01-13T18:21:21+08:00</lastmod>
   </url><url>
     <loc>https://blog.yccd.cc/p/blog-alias/</loc>
-    <lastmod>2023-01-13T18:21:21+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.yccd.cc/categories/</loc>
     <lastmod>2023-01-13T18:21:21+08:00</lastmod>
   </url><url>
     <loc>https://blog.yccd.cc/tags/cdn/</loc>
@@ -24,12 +39,6 @@
     <lastmod>2023-01-13T18:21:21+08:00</lastmod>
   </url><url>
     <loc>https://blog.yccd.cc/tags/netlify/</loc>
-    <lastmod>2023-01-13T18:21:21+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.yccd.cc/post/</loc>
-    <lastmod>2023-01-13T18:21:21+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.yccd.cc/tags/</loc>
     <lastmod>2023-01-13T18:21:21+08:00</lastmod>
   </url><url>
     <loc>https://blog.yccd.cc/tags/vercel/</loc>
