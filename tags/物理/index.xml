@@ -6,7 +6,199 @@
         <description>Recent content in 物理 on YCCD の BLOG</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Wed, 01 Feb 2023 13:14:01 +0800</lastBuildDate><atom:link href="https://blog.yccd.cc/tags/%E7%89%A9%E7%90%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 02 Feb 2023 17:37:12 +0800</lastBuildDate><atom:link href="https://blog.yccd.cc/tags/%E7%89%A9%E7%90%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>物理复习15</title>
+        <link>https://blog.yccd.cc/p/%E7%89%A9%E7%90%86%E5%A4%8D%E4%B9%A015/</link>
+        <pubDate>Thu, 02 Feb 2023 17:37:12 +0800</pubDate>
+        
+        <guid>https://blog.yccd.cc/p/%E7%89%A9%E7%90%86%E5%A4%8D%E4%B9%A015/</guid>
+        <description>&lt;h2 id=&#34;电磁场&#34;&gt;电磁场&lt;/h2&gt;
+&lt;h3 id=&#34;法拉第电磁感应定律&#34;&gt;法拉第电磁感应定律&lt;/h3&gt;
+&lt;p&gt;当穿过闭合导体回路的磁通量随时间发生变化时，闭合导体回路中有电流产生。这种现象称为==电磁感应==，产生的电流称为==感应电流==
+感应电流方向由==楞次定理==确定&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;闭合回路中感应电流的方向，总是使感应电流的磁场阻碍引起感应电流的磁通量的变化&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;电磁感应过程中出现电动势，说明回路中存在电动势，这种电动势称为==感应电动势==&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;回路中的感应电动势与穿过回路的磁通量的时间变化率成正比&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;法拉第电磁感应定律：&lt;/p&gt;
+&lt;p&gt;$$\xi=-\frac{d\Phi_m}{dt}$$&lt;/p&gt;
+&lt;h3 id=&#34;动生电动势&#34;&gt;动生电动势&lt;/h3&gt;
+&lt;h4 id=&#34;动生电动势-1&#34;&gt;动生电动势&lt;/h4&gt;
+&lt;p&gt;$$\xi=-\frac{d\Phi_m}{dt}=-\frac d{dt}(Blx)=-Blv$$
+非静电场强
+$$E_k=\frac f {-e}=v \times B$$
+导体棒的动生电动势：
+$$\xi=\int_a^b(V\times B)\cdot dl$$&lt;/p&gt;
+&lt;h4 id=&#34;动生电动势与洛伦兹力&#34;&gt;动生电动势与洛伦兹力&lt;/h4&gt;
+&lt;h3 id=&#34;感生电动势&#34;&gt;感生电动势&lt;/h3&gt;
+&lt;h4 id=&#34;感生电动势-涡旋电场&#34;&gt;感生电动势 涡旋电场&lt;/h4&gt;
+&lt;p&gt;无论导体回路是否存在，变化的磁场都会在其周围空间激发一种非静电场，成为==感生电场==
+感生电场沿闭合回路的积分不为0，表明感生电场与静电场不同，而与磁场类似，所以又称为==涡旋电场==&lt;/p&gt;
+&lt;h4 id=&#34;涡旋电场的应用&#34;&gt;涡旋电场的应用&lt;/h4&gt;
+&lt;h5 id=&#34;电子感应加速器&#34;&gt;电子感应加速器&lt;/h5&gt;
+&lt;h5 id=&#34;涡电流&#34;&gt;涡电流&lt;/h5&gt;
+&lt;h3 id=&#34;自感和互感&#34;&gt;自感和互感&lt;/h3&gt;
+&lt;h4 id=&#34;自感&#34;&gt;自感&lt;/h4&gt;
+&lt;p&gt;由回路自身电流激发的磁场产生的通过回路自身的磁通量亦发生变化，从而在回路中产生感生电动势，这一现象叫做==自感现象==，产生的感生电动势称为==自感电动势==。
+$$\Psi=LI$$
+$L$ 是自感系数，自感电动势为
+$$\xi_L=-\frac{d\Psi}{dt}=-L\frac{dI}{dt}$$&lt;/p&gt;
+&lt;h4 id=&#34;互感&#34;&gt;互感&lt;/h4&gt;
+&lt;p&gt;当一个回路中的电流变化时，将在另一个回路激发感生电动势，这一现象称为==互感现象==，所激发的电动势称为==互感电动势==
+$$M=K\sqrt{L_1L_2}$$
+k 是==耦合系数==&lt;/p&gt;
+&lt;h3 id=&#34;磁场的能量&#34;&gt;磁场的能量&lt;/h3&gt;
+&lt;h4 id=&#34;自感磁能&#34;&gt;自感磁能&lt;/h4&gt;
+&lt;p&gt;$$W_m=\int_0^tLi\frac{di}{dt}dt=\int_0^tLidt=\frac 1 2LI^2$$
+$$L=\mu\frac{N^2}{l}S=\mu n^2lS=\mu n^2 V$$&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>物理复习13 14</title>
+        <link>https://blog.yccd.cc/p/%E7%89%A9%E7%90%86%E5%A4%8D%E4%B9%A013-14/</link>
+        <pubDate>Thu, 02 Feb 2023 14:53:49 +0800</pubDate>
+        
+        <guid>https://blog.yccd.cc/p/%E7%89%A9%E7%90%86%E5%A4%8D%E4%B9%A013-14/</guid>
+        <description>&lt;h2 id=&#34;恒定电流的磁场&#34;&gt;恒定电流的磁场&lt;/h2&gt;
+&lt;h3 id=&#34;电流密度-电动势&#34;&gt;电流密度 电动势&lt;/h3&gt;
+&lt;h4 id=&#34;电流密度的基本概念&#34;&gt;电流密度的基本概念&lt;/h4&gt;
+&lt;p&gt;电流是电荷定向移动形成的，形成电流的运动电荷称为==载流子==
+电流的强弱用==电流==这一物理量表示
+$$I=\lim_{\Delta t \to0}\frac{\Delta q}{\Delta t}=\frac{dq}{dt}$$&lt;/p&gt;
+&lt;h4 id=&#34;电流密度&#34;&gt;电流密度&lt;/h4&gt;
+&lt;p&gt;为了精确描述导体各处的电流情况，引入==电流密度==这个概念
+$$j=\frac{dI}{dS_{\perp}}n$$
+某点电流密度的方向就是该点的电流方向，其数值等于包含该点的与电流方向垂直的单位面积中通过的电流
+类似电场线，我们可以引入==电流线==的概念&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; todo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;稳恒电流的条件&#34;&gt;稳恒电流的条件&lt;/h4&gt;
+&lt;p&gt;每个点的电流密度大小方向都可保持恒定不变，这种电流称为==稳恒电流==，也叫==直流电==
+要形成稳恒电流，导体内各处电场强度不能随时间变化。既要在导体内维持一个==稳恒电场==。相应的，导体内各处的电荷分布也不能随时间变化
+因为电荷分布不随时间变化，所以取一个闭合曲面，曲面内的电荷不随时间变化$$\frac{dq_内}{dt}=0$$$$\oint_SjdS=0$$&lt;/p&gt;
+&lt;h4 id=&#34;电动势&#34;&gt;电动势&lt;/h4&gt;
+&lt;h5 id=&#34;非静电力-电源&#34;&gt;非静电力 电源&lt;/h5&gt;
+&lt;h5 id=&#34;电动势-1&#34;&gt;电动势&lt;/h5&gt;
+&lt;p&gt;为了描述电源内部非静电力的强弱和方向，引入==非静电场强==的概念$$Ek=\frac{F_k}{q}$$
+电源的电动势定义为将单位正电荷从电源负极经电源内部移到正极时非静电力所做的功
+$$\xi=\int_-^+E_kdl=\int_LE_kdl=\oint_LE_kdl$$&lt;/p&gt;
+&lt;h3 id=&#34;磁场&#34;&gt;磁场&lt;/h3&gt;
+&lt;h4 id=&#34;磁场-1&#34;&gt;磁场&lt;/h4&gt;
+&lt;p&gt;运动电荷还受到磁力的作用，磁力是有==磁场==来传递的&lt;/p&gt;
+&lt;h4 id=&#34;磁感应强度-磁场叠加原理&#34;&gt;磁感应强度 磁场叠加原理&lt;/h4&gt;
+&lt;h5 id=&#34;磁感应强度-b&#34;&gt;磁感应强度 B&lt;/h5&gt;
+&lt;p&gt;$$B=\frac F {qv\sin \alpha}$$&lt;/p&gt;
+&lt;h5 id=&#34;磁场叠加原理&#34;&gt;磁场叠加原理&lt;/h5&gt;
+&lt;p&gt;多个运动电荷与电流共同存在时产生磁场的磁感应强度等于各运动电荷与电流单独存在时所产生的磁感应强度的矢量和
+$$B=\sum_i B_i$$&lt;/p&gt;
+&lt;h4 id=&#34;磁感应线&#34;&gt;磁感应线&lt;/h4&gt;
+&lt;p&gt;反映和描述磁感应强度B的空间分布情况，也叫做B线&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;磁感应线总是连续的，为环绕电流的闭合曲线
+磁感应线的方向与电流的方向呈右手螺旋关系&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;磁通量&#34;&gt;磁通量&lt;/h4&gt;
+&lt;p&gt;通过任意曲面的磁感应线的数目，称为通过此曲面的==磁通量==，用$\Phi_m$表示
+$$d\Phi_m=B\cos\theta dS=BdS$$
+通过曲面的磁通量
+$$\Phi_m=\iint_Sd\Phi_m=\iint_SBdS$$&lt;/p&gt;
+&lt;h4 id=&#34;磁场的高斯定理&#34;&gt;磁场的高斯定理&lt;/h4&gt;
+&lt;p&gt;穿入的数量一定等于穿出的数量
+$$\oint_SBdS=0$$&lt;/p&gt;
+&lt;h3 id=&#34;毕奥-萨伐尔定律&#34;&gt;毕奥-萨伐尔定律&lt;/h3&gt;
+&lt;h4 id=&#34;毕奥-萨伐尔定律-1&#34;&gt;毕奥-萨伐尔定律&lt;/h4&gt;
+&lt;p&gt;载流导线周围的磁感应强度的大小与电流成正比，与场点到直线的距离成反比
+设某线状回路中有稳恒电流，在回路中取一小片段，带小片段成为==电流元==，常用 $Idl$ 表示
+电流元 $Idl$ 在空间 P 点处产生的磁感应强度为
+$$dB=\frac{\mu_0Idl\times r}{4\pi r^3}$$
+$r$ 为电流元 $Idl$ 引向场点 P 的矢径，$\mu_0$ 为==真空磁导率==，$\mu_0=4\pi\times 1-^{-7} N\cdot A^{-2}$
+根据磁场叠加原理，一段导线的场强为
+$$B=\int_LdB=\frac{\mu_0}{4\pi}\int_L\frac{Idl\times r}{r^3}$$&lt;/p&gt;
+&lt;h4 id=&#34;应用&#34;&gt;应用&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; todo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;安培环路定理&#34;&gt;安培环路定理&lt;/h3&gt;
+&lt;h4 id=&#34;安培环路定理-1&#34;&gt;安培环路定理&lt;/h4&gt;
+&lt;p&gt;在恒微电流的磁场中，磁感应强度B沿任意闭合回路L的线积分（也叫环流）等于闭合回路L所包围的电流代数和的 $\mu_0$ 倍
+$$\oint_LBdl=\mu_0\sum I_内$$
+应用&lt;/p&gt;
+&lt;h3 id=&#34;磁场对载流导线的作用力&#34;&gt;磁场对载流导线的作用力&lt;/h3&gt;
+&lt;h4 id=&#34;安培力公式&#34;&gt;安培力公式&lt;/h4&gt;
+&lt;p&gt;$$dF=Idl \times B$$
+$$F=\int_LIdl\times B$$&lt;/p&gt;
+&lt;h4 id=&#34;平行长直载流导线间的相互作用力&#34;&gt;平行长直载流导线间的相互作用力&lt;/h4&gt;
+&lt;p&gt;略&lt;/p&gt;
+&lt;h4 id=&#34;磁场对载流平面线圈的作用&#34;&gt;磁场对载流平面线圈的作用&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; todo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;磁力做的功&#34;&gt;磁力做的功&lt;/h4&gt;
+&lt;h5 id=&#34;安培力对载流导线做的功&#34;&gt;安培力对载流导线做的功&lt;/h5&gt;
+&lt;p&gt;$$F=IBl$$
+$$dA=Fdx=IBldx=IBdS=Id\Phi_m$$&lt;/p&gt;
+&lt;h5 id=&#34;磁力矩对载流线圈做的功&#34;&gt;磁力矩对载流线圈做的功&lt;/h5&gt;
+&lt;p&gt;$$dA=-Md\varphi=-p_m\sin\varphi d\varphi=ISBd(\cos\varphi)=Id(BS\cos\varphi)=Id\Phi_m$$
+$$A=\int_{\Phi_{m1}}^{\Phi_{m2}}Id\Phi_m$$&lt;/p&gt;
+&lt;h3 id=&#34;带电粒子在磁场中的运动&#34;&gt;带电粒子在磁场中的运动&lt;/h3&gt;
+&lt;h4 id=&#34;洛伦兹力&#34;&gt;洛伦兹力&lt;/h4&gt;
+&lt;p&gt;$$f=qc\times B$$
+洛伦兹力与电荷的运动方向垂直，所以不做功&lt;/p&gt;
+&lt;h2 id=&#34;磁介质的磁化&#34;&gt;磁介质的磁化&lt;/h2&gt;
+&lt;h3 id=&#34;磁介质的磁化-磁化强度&#34;&gt;磁介质的磁化 磁化强度&lt;/h3&gt;
+&lt;h4 id=&#34;磁介质对磁场的影响&#34;&gt;磁介质对磁场的影响&lt;/h4&gt;
+&lt;p&gt;$\mu_r$ 成为磁介质的==相对磁导率==，将 $\mu=\mu_0\mu_r$ 定义为磁介质的==绝对磁导率==，简称==磁导率==。
+磁介质可以分为三类：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;顺磁质 $\mu_r$ 略大于1&lt;/li&gt;
+&lt;li&gt;抗磁质 $\mu_r$ 略小于1&lt;/li&gt;
+&lt;li&gt;铁磁质 $\mu_r$ 远大于1&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;分子磁矩-分子电流&#34;&gt;分子磁矩 分子电流&lt;/h4&gt;
+&lt;p&gt;将整个分子视为一体，分子内所有电子的轨道磁矩和自旋磁矩以及核自旋磁矩的矢量和称为分子磁矩，用 $p_m$ 表示。该磁矩可看作是由某个环形电流产生的，成为==分子电流==
+在无外磁场时，分子所具有的磁矩成为固有磁矩。&lt;/p&gt;
+&lt;h4 id=&#34;顺磁质与抗磁质的磁化&#34;&gt;顺磁质与抗磁质的磁化&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; todo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;磁化强度&#34;&gt;磁化强度&lt;/h4&gt;
+&lt;p&gt;用M表示，定义为单位体积内，分子磁矩的矢量和
+$$M=\lim_{\Delta t\to0}\frac{\sum p_m}{\Delta V}$$&lt;/p&gt;
+&lt;h4 id=&#34;磁化强度与磁化电流之间的关系&#34;&gt;磁化强度与磁化电流之间的关系&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; todo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;有磁介质是的安培环路定理&#34;&gt;有磁介质是的安培环路定理&lt;/h3&gt;
+&lt;h4 id=&#34;磁场强度-有磁介质是的安培环路定理&#34;&gt;磁场强度 有磁介质是的安培环路定理&lt;/h4&gt;
+&lt;p&gt;安培环路定理
+$$\oint_LBdl=\oint(B+B&amp;rsquo;)\cdot dl=\mu_0(\sum I_0+I_m)$$
+$$\oint(\frac B {\mu_0}-M)\cdot dl=\sum I_0$$
+引入磁场强度H
+$$H=\frac B{\mu_0}-M$$
+$$\oint_LH\cdot dl=\sum I_0$$
+磁场强度沿任意闭合回路的环流等于该闭合回路所包围的传导电流的代数和
+$$M=\chi_mH$$
+$\chi_m$ 叫做==磁化率==
+$$B=\mu_0(1+\chi_m)H$$
+记$\mu_r=1+\chi_m$ , $\mu = \mu_0\mu_r$
+$$B=\mu_0\mu_rH=\mu H$$&lt;/p&gt;
+&lt;h4 id=&#34;用有磁介质是的安培环路定理计算磁场&#34;&gt;用有磁介质是的安培环路定理计算磁场&lt;/h4&gt;
+&lt;h3 id=&#34;铁磁质&#34;&gt;铁磁质&lt;/h3&gt;
+&lt;h4 id=&#34;铁磁质的磁化规律&#34;&gt;铁磁质的磁化规律&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; todo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;磁路定理及其应用&#34;&gt;磁路定理及其应用&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; todo&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
         <title>物理复习</title>
         <link>https://blog.yccd.cc/p/%E7%89%A9%E7%90%86%E5%A4%8D%E4%B9%A0/</link>
         <pubDate>Wed, 01 Feb 2023 13:14:01 +0800</pubDate>
@@ -207,6 +399,143 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%5ec9a660&#34; &gt;电势梯度&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
+&lt;h2 id=&#34;12-静电场中的导体和电介质&#34;&gt;12 静电场中的导体和电介质&lt;/h2&gt;
+&lt;h3 id=&#34;知识点-1&#34;&gt;知识点&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;导体的静电平衡
+&lt;ol&gt;
+&lt;li&gt;导体的静电平衡条件
+&lt;ol&gt;
+&lt;li&gt;在静电力作用下，导体上的自由电荷重新分布的现象叫做静电感应&lt;/li&gt;
+&lt;li&gt;当导体内部的场强变为0时，导体内部的电子不在相对移动，这种状态叫做静电平衡&lt;/li&gt;
+&lt;li&gt;处于静电平衡的导体是等势体，其表面是等势面&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;静电平衡时导体上的电荷分布
+&lt;ol&gt;
+&lt;li&gt;==内部各处的静电荷为0，静电荷只能分布在表面==
+&lt;ul&gt;
+&lt;li&gt;这个结论可以用高斯定理证明&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;处于静电平衡的导体，==其表面的外侧紧邻处的场强大小==与该表面出的电荷的面密度成正比&lt;/li&gt;
+&lt;li&gt;导体表面上的电荷分布不仅与导体的形状有关，而且与外界条件又关，孤立导体表面的电荷分布仅仅由导体的形状决定
+&lt;ul&gt;
+&lt;li&gt;这种特性可以产生一种现象叫做==尖端放电==&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;静电屏蔽
+&lt;ol&gt;
+&lt;li&gt;壳内==无带电体==的情况
+&lt;ul&gt;
+&lt;li&gt;此时导体壳始终处于静电平衡的状态&lt;/li&gt;
+&lt;li&gt;导体的内部没有电场，电场强度为0&lt;/li&gt;
+&lt;li&gt;导体壳的内部没有电荷分布&lt;/li&gt;
+&lt;li&gt;可以用反证法证明&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;壳内有带电体的情况
+&lt;ul&gt;
+&lt;li&gt;有高斯定理可以得出：导体壳内部的电荷与导体中的电荷大小相等，电性相反&lt;/li&gt;
+&lt;li&gt;如果球壳是一个中型壳，那么球壳外表面的的电荷与球壳内部的电荷相等&lt;/li&gt;
+&lt;li&gt;如果此时球壳接地，那么它外表面的电荷将被中和，内表面不受影响&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;静电屏蔽
+&lt;ol&gt;
+&lt;li&gt;导体内部不受到外界影响的现象叫做静电屏蔽&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;电介质的极化 电极化强度
+&lt;ol&gt;
+&lt;li&gt;电介质对电场的影响
+&lt;ol&gt;
+&lt;li&gt;电介质插入电极板之间后两端的电压变小，$U=U_0/\varepsilon_r$ 其中 $\varepsilon_r$ 为大于1的纯数，他的大小与电介质的种类和外部环境有关，成为==相对介电常数==或者==相对电容率==&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;电介质的极化
+&lt;ol&gt;
+&lt;li&gt;位移极化
+&lt;ol&gt;
+&lt;li&gt;分子被拉长之后出现正负电荷分别在两边&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;取向极化
+&lt;ol&gt;
+&lt;li&gt;分子本来就很长，附加电场后整齐排列&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;在介质的外表面有一层电荷是因为极化产生的，叫做==极化电荷==。有因为他们被束缚在表面，所以也叫==束缚电荷==&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;电极化强度反映了电介质内分子电偶极矩的大小、排列方向、排列有序程度$$P=\frac{\sum p_分}{\Delta V}$$ $\sum p_分$ 是指所有的分子电偶极矩之和&lt;/li&gt;
+&lt;li&gt;电极化强度与极化电荷面密度的关系
+&lt;ol&gt;
+&lt;li&gt;假设极化后单位体积有n个分子$$P = np_分=nql$$&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;电位移矢量 有电介质时的高斯定理
+&lt;ol&gt;
+&lt;li&gt;$$\oint_SEdS = \frac1{\varepsilon_0}(q_0+q_1)$$ $$\oint_SEdS = \frac1{\varepsilon_0}(q_0-\oint_SPdS)$$$$\oint_S(\varepsilon_0E+P)dS=q_0$$$$D=\varepsilon_0E+P$$D是电位移矢量，上面的公示就是==有电介质时的高斯定理==&lt;/li&gt;
+&lt;li&gt;有电介质存在时电场的计算
+&lt;ol&gt;
+&lt;li&gt;$$P=\varepsilon_0\chi E$$其中 $\chi$ 称为电介质的极化率$$D=\varepsilon_0E+P=\varepsilon_0(1+\chi)E$$设$1+\chi=\varepsilon_r$ , $\varepsilon_r$ 是==介质的&lt;strong&gt;相对&lt;/strong&gt;介电常数==$$D=\varepsilon_0\varepsilon_rE=\varepsilon E$$式中的$\varepsilon=\varepsilon_0\varepsilon_r$是==介质的介电常数==&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;静电场的边界条件
+&lt;ol&gt;
+&lt;li&gt;todo！&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;电容与电容器
+&lt;ol&gt;
+&lt;li&gt;孤立导体的电容
+&lt;ol&gt;
+&lt;li&gt;孤立导体的电荷分布在球面上，他的电势为$$U=\frac{q}{4\pi\varepsilon_0R}$$&lt;/li&gt;
+&lt;li&gt;对于孤立的导体球，真空环境时，$C=4\pi\varepsilon_0R$ ，C与球的半径 R 成正比&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;电容器的电容
+&lt;ol&gt;
+&lt;li&gt;两个极板之间有电势差&lt;/li&gt;
+&lt;li&gt;==电容器的电容==$$C=\frac q U$$&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;电容器电容的计算
+&lt;ol&gt;
+&lt;li&gt;设电容器处于工作状态，两导体带有等量异号的电荷，分析静电平衡时电荷在导体上的分布&lt;/li&gt;
+&lt;li&gt;计算两导体之间的电场分布&lt;/li&gt;
+&lt;li&gt;有电场分布计算两导体之间的电势差&lt;/li&gt;
+&lt;li&gt;最后计算出电容C&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;电容器的串联和并联
+&lt;ol&gt;
+&lt;li&gt;串联$$\frac 1 C=\sum^n_{i=1}\frac 1 C_i$$&lt;/li&gt;
+&lt;li&gt;并联$$C = \sum^n_{i=1}C_i$$并联时最大承受电压由最小的电容器决定&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;静电场能量 电场能量密度
+&lt;ol&gt;
+&lt;li&gt;电场能量密度$$\omega_e=\frac{dW}{dV}$$空间中储存的能量$$W=\iiint_V\omega_edV$$&lt;/li&gt;
+&lt;li&gt;$$A=\int dA=\int_0^QUdq=\int_0^Q\frac q Cdq=\frac{Q^2}{2C}$$又因为$Q=CU$$$W=\frac 1 2 CU^2$$$$\omega_e=\frac 1 2\varepsilon_0\varepsilon_eE^2=\frac 1 2DE$$&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;总结-1&#34;&gt;总结&lt;/h3&gt;
+&lt;p&gt;。。。。。。&lt;/p&gt;
 </description>
         </item>
         
